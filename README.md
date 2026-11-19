@@ -9,4 +9,4 @@ Backend engineer in Mexico City. Node/NestJS, event-driven systems and AI agents
 - `ledger-service` — a small payments ledger in NestJS (hexagonal, RabbitMQ, idempotent consumers, reconciliation, Postgres). Interview-grade answers as code.
 - `call-grader` — a Claude-based grader for collections-call transcripts: behavioral rubric, two human labelers with inter-rater agreement, cost and model version tracked per evaluation.
 
-**Reach me**: diego.bustos49@outlook.com · [LinkedIn](https://www.linkedin.com/in/diegobustos)
+**Reach me**: diego.bustos49@outlook.com
